@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20welcome%20to%20my%20page!&fontSize=42&fontAlignY=35&animation=fadeIn&desc=CS%20%2B%20Data%20Science%20@%20CWRU%20%7C%20ML%20%2F%20AI%20%2F%20Software%20Development&descAlignY=58&descSize=18" /> 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="300" alt="coding gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="coding gif" />
 </p>
 
 ## 👋 About Me
