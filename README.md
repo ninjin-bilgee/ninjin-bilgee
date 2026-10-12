@@ -1,19 +1,15 @@
-<!-- ===== HEADER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20Welcome%20to%20Ninjin's%20page!%20🕹️&fontSize=42&fontAlignY=35&animation=fadeIn&desc=CS%20%2B%20Data%20Science%20@%20CWRU%20%7C%20ML%20%2F%20AI%20%2F%20Software Development&descAlignY=58&descSize=18" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20welcome%20to%20my%20page!&fontSize=42&fontAlignY=35&animation=fadeIn&desc=CS%20%2B%20Data%20Science%20@%20CWRU%20%7C%20ML%20%2F%20AI%20%2F%20Software%20Development&descAlignY=58&descSize=18" /> 
 
-<!-- Swap in any GIF from Anmol-Baranwal/Cool-GIFs-For-GitHub (right-click the GIF → Copy image address) -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="300" alt="coding gif" />
 </p>
 
 ## 👋 About Me
 
-I'm a third-year at **Case Western Reserve University** double majoring in **Computer Science** and **Data Science** (Finance minor), aiming for ML/AI engineering or software development.
+I'm a third-year at **Case Western Reserve University** double majoring in **Computer Science** and **Data Science** (Finance minor), aiming for ML/AI engineering or software development roles.
 
-- Undergraduate researcher at the **SaPHaRI Lab** (RoboSOAR) - person re-identification on edge AI hardware
-- **Break Through Tech AI/ML Fellow** at Cornell Tech and WebMD
+- Undergraduate researcher at the **SaPHaRI Lab** (RoboSOAR) - on-device person re-ID for the RoboSOAR robot (YOLOv10 + RepVGG on a Hailo-8)
+- ML Fellow at **Break Through Tech × WebMD**
 - xLab Consultant at **Progressive Insurance**
 - Student Technician at **Sears think[box]**
 - VP of Logistics @ HackCWRU · VP @ Women in Data Science · Treasurer @ Girls Who Code
@@ -45,6 +41,22 @@ Fun fact: I have double-jointed elbows!
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/cwru-girlswhocode/cwru-gwc-website">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=cwru-girlswhocode&repo=cwru-gwc-website&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ninjin-bilgee/flight-crew">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ninjin-bilgee&repo=flight-crew&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Break-Through-Tech/Pharma-1B-predicting-pharma-ad-performance">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Break-Through-Tech&repo=Pharma-1B-predicting-pharma-ad-performance&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
