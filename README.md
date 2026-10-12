@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Ninjin!%20🕹️&fontSize=42&fontAlignY=35&animation=fadeIn&desc=CS%20%2B%20Data%20Science%20@%20CWRU%20%7C%20ML%20%2F%20AI&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20Welcome%20to%20Ninjin's%20page!%20🕹️&fontSize=42&fontAlignY=35&animation=fadeIn&desc=CS%20%2B%20Data%20Science%20@%20CWRU%20%7C%20ML%20%2F%20AI%20%2F%20Software Development&descAlignY=58&descSize=18" />
 </p>
 
 <!-- Swap in any GIF from Anmol-Baranwal/Cool-GIFs-For-GitHub (right-click the GIF → Copy image address) -->
@@ -12,13 +12,14 @@
 
 I'm a third-year at **Case Western Reserve University** double majoring in **Computer Science** and **Data Science** (Finance minor), aiming for ML/AI engineering or software development.
 
-- Undergraduate researcher at the **SaPHaRI Lab** (RoboSOAR) — person re-identification on edge AI hardware
-- **Break Through Tech AI/ML Fellow** at Cornell Tech
-- xLab Consultant at **Progressive**
+- Undergraduate researcher at the **SaPHaRI Lab** (RoboSOAR) - person re-identification on edge AI hardware
+- **Break Through Tech AI/ML Fellow** at Cornell Tech and WebMD
+- xLab Consultant at **Progressive Insurance**
 - Student Technician at **Sears think[box]**
 - VP of Logistics @ HackCWRU · VP @ Women in Data Science · Treasurer @ Girls Who Code
 - Currently learning: AWS
-- ⚡ Fun fact: I have double-jointed elbows!
+
+Fun fact: I have double-jointed elbows!
 
 ## 🧰 Tech Stack
 
