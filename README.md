@@ -1,23 +1,46 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20welcome%20to%20my%20page!&fontSize=42&fontAlignY=35&animation=fadeIn&desc=CS%20%2B%20Data%20Science%20@%20CWRU%20%7C%20ML%20%2F%20AI%20%2F%20Software%20Development&descAlignY=58&descSize=18" /> 
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" alt="coding gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D2E&fontColor=FFFFFF&fontFamily=Courier%20New&height=180&section=header&text=Hello,%20World!&fontSize=42&fontAlignY=35&animation=fadeIn&desc=CS%20%2B%20Data%20Science%20@%20CWRU%20%7C%20ML%20%2F%20AI%20%2F%20Software%20Development&descAlignY=58&descSize=18" />
 </p>
 
-## 👋 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+working+ML;Hardware+tinkerer%2C+always+building" />
+</p>
 
-I'm a third-year at **Case Western Reserve University** double majoring in **Computer Science** and **Data Science** (Finance minor), aiming for ML/AI engineering or software development roles.
+## `About Me`
 
-- Undergraduate researcher at the **SaPHaRI Lab** (RoboSOAR) - on-device person re-ID for the RoboSOAR robot (YOLOv10 + RepVGG on a Hailo-8)
+When I'm not coding, I'm at think[box] making custom gifts for my friends, hiking, exploring Cleveland, or running events for my clubs!
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+```python
+class Ninjin:
+    school   = "Case Western Reserve University '28"
+    majors   = ["Computer Science", "Data Science"]
+    minor    = "Finance"
+    focus    = ["ML / AI engineering", "computer vision",
+                "privacy-first systems", "software development"]
+    learning = ["AWS"]
+    fun_fact = "I have double-jointed elbows!"
+```
+
+</td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+### Experience
+
+- Undergraduate Researcher at the **SaPHaRI Lab**: on-device person re-ID for the RoboSOAR robot (YOLOv10 + RepVGG on a Hailo-8)
 - ML Fellow at **Break Through Tech × WebMD**
 - xLab Consultant at **Progressive Insurance**
-- Student Technician at **Sears think[box]**
-- VP of Logistics @ HackCWRU · VP @ Women in Data Science · Treasurer @ Girls Who Code
-- Currently learning: AWS
+- Prototyping Technician at **Sears think[box]**
+- VP @ Girls Who Code · VP @ Women in Data Science · Treasurer @ HackCWRU
 
-Fun fact: I have double-jointed elbows!
-
-## 🧰 Tech Stack
+## `Tech Stack`
 
 **Languages**
 
@@ -42,7 +65,7 @@ Fun fact: I have double-jointed elbows!
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🚀 Featured Projects
+## `Featured Projects`
 
 <p align="center">
   <a href="https://github.com/cwru-girlswhocode/cwru-gwc-website">
@@ -58,19 +81,19 @@ Fun fact: I have double-jointed elbows!
   </a>
 </p>
 
-## 📊 GitHub Stats
+## `GitHub Stats`
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=ninjin-bilgee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=ninjin-bilgee&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📫 Connect With Me
+## `Connect With Me`
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ninjin-bilgee)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsb103@case.edu)
 
-<!-- ===== FOOTER ===== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D2E&height=100&section=footer" />
 </p>
