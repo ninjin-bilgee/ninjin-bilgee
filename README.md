@@ -10,6 +10,10 @@
 
 When I'm not coding, I'm at think[box] making custom gifts for my friends, hiking, exploring Cleveland, or running events for my clubs!
 
+## `My Resume`
+[Click here to view my full Resume (PDF)](NinjinBilgee_2026_Resume_SWE.pdf)
+
+
 <table>
   <tr>
     <td width="60%" valign="top">
